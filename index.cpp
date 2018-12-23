@@ -4,5 +4,7 @@
 int main()
 {
 cout<<"Hello Git!"<<endl;
+cout<<"All work, secsusfull!"<<endl;
+
 return 0;
 	}
